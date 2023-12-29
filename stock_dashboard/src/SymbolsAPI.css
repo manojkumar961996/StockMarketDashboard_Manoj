@@ -1,0 +1,43 @@
+/* Symbols.css */
+
+.symbols-container {
+    width: 50%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .symbols-dropdown {
+    width: 50%;
+    height: 30px;
+    margin-top: 10px;
+  }
+  
+  .details-container {
+    width: 60%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .details-table {
+    width: 50%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .details-table td,
+  .details-table th {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+  }
+  
+  .details-table th {
+    background-color: #e0e0e0;
+  }
+  
